@@ -53,6 +53,8 @@ header {
     border: none;
     cursor: pointer;
     width: 100px;
+    text-decoration: none;
+    text-align: center;
 }
 
 .dropdown-content {
